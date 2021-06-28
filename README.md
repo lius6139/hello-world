@@ -1,4 +1,10 @@
 # hello-world
-A New Trial to Coding
 
-Hi, Humans!
+## 就是一个简单的记录
+
+### 测试MD语法
+
+```python
+for i in range(0,10):
+  print("你好"）
+```
